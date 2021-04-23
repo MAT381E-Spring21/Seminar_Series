@@ -2,10 +2,10 @@
 
 ## Seminer I:
 
-Konuşmacı: Dr. Öğr. Üyesi Mert Moral
-Kurum: Sabancı Üniversites Sanat ve Sosyal Bilimler Fakültesi Siyaset Bilimi ve Uluslarrası İlişkiler Bölümü
-Web sitesi: http://www.mertmoral.com/ 
-Konuşma Başlığı: Siyasi Kutuplaşmanın Seçmen Tercihlerine Kısa ve Uzun Dönem Etkileri
+Konuşmacı: Dr. Öğr. Üyesi Mert Moral 
+Kurum: Sabancı Üniversites Sanat ve Sosyal Bilimler Fakültesi Siyaset Bilimi ve Uluslarrası İlişkiler Bölümü 
+Web sitesi: http://www.mertmoral.com/  
+Konuşma Başlığı: Siyasi Kutuplaşmanın Seçmen Tercihlerine Kısa ve Uzun Dönem Etkileri 
 
 Seminer Zoom Bağlantı Bilgileri
 
