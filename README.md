@@ -1,4 +1,4 @@
-# 📢 SeminarSeries:
+# 📢  SeminarSeries:
 
 ## Seminer I:
 
