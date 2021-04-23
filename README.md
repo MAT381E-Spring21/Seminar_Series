@@ -1,5 +1,5 @@
 ```html
-<h1 style="background-color:DodgerBlue;"> Seminar Series: </h1>  
+<h1 style="color:DodgerBlue;"> Seminar Series: </h1>  
 ```
 
 ## Seminer I:
