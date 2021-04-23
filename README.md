@@ -1,4 +1,4 @@
-# Seminar_Series
+# 📢 SeminarSeries:
 
 ## Seminer I:
 
@@ -9,9 +9,10 @@
 
  **Seminer Zoom Bağlantı Bilgileri:**
 
- Time: 3 Mayıs, 2021 13:30 İstanbul
+ **Time:** 3 Mayıs, 2021 13:30 İstanbul
 
- Join Zoom Meeting 
+ **Join Zoom Meeting:**
+ 
  https://itu-edu-tr.zoom.us/j/96549359519?pwd=MUxjZlNObkhqajJTUHNyM3EzLzkwQT09
 
  Meeting ID: 965 4935 9519 
