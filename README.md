@@ -1,4 +1,6 @@
-<h1 style="background-color:DodgerBlue;">Seminar Series:</h1>  
+```html
+<h1 style="background-color:DodgerBlue;"> Seminar Series: </h1>  
+```
 
 ## Seminer I:
 
