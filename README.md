@@ -16,4 +16,4 @@
  https://itu-edu-tr.zoom.us/j/96549359519?pwd=MUxjZlNObkhqajJTUHNyM3EzLzkwQT09
 
  Meeting ID: 965 4935 9519  
- Passcode: 838914 
+ Passcode: 838914  
