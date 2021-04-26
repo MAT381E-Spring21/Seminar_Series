@@ -9,7 +9,7 @@
 
  **Seminer Zoom Bağlantı Bilgileri:**
 
- **Time:** 3 Mayıs, 2021 13:30-14:30 İstanbul
+ **Time:** 3 Mayıs, 2021 14:30-15:30 İstanbul
 
  **Join Zoom Meeting:**
  
