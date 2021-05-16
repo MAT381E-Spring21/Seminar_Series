@@ -10,7 +10,8 @@
 
  **Time:** 24 Mayıs, 2021 17:40-18:40 (İstanbul Time)
 
- **Join Zoom Meeting:**
+ **Join Zoom Meeting:**   
+ 
  https://itu-edu-tr.zoom.us/j/96821169781?pwd=UTN4L1gvNllMMnJjMmNlb2R6K3J4UT09
  
  Meeting ID: 968 2116 9781   
