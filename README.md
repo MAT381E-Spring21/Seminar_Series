@@ -5,8 +5,11 @@
  **Konuşmacı:** Dr. Çağrı Özçağlar  
  **Kurum:** LinkedIn, Mountain View, Kaliforniya, ABD   
  **Web sitesi:** https://www.linkedin.com/in/cagri-ozcaglar-5582613/  
- **Konuşma Başlığı:** Data Science Applications at Web Scale 
-
+ **Konuşma Başlığı:** Data Science Applications at Web Scale. 
+ 
+ [**Konuşma slaytlarına erişim için tıklayınız lütfen.**](https://docs.google.com/presentation/d/1F3Ga5dGpRGX6XZw3I1yUE1q2r3a59Yvb_RW1rajWyRo/edit#slide=id.p)
+ 
+ 
  **Seminer Zoom Bağlantı Bilgileri:**
 
  **Time:** 24 Mayıs, 2021 17:40-18:40 (İstanbul Time)
