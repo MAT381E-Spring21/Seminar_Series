@@ -1,5 +1,26 @@
 # Seminer Serileri
 
+## Seminer III:
+
+**Konuşmacı:** Prof. Dr. Emre Erdoğan  
+**Kurum:** İstanbul Bilgi Üniversitesi Sosyal ve Beşeri Bilimler Fakültesi, Uluslararası İlişkiler Bölümü   
+**Web sitesi:** https://www.bilgi.edu.tr/tr/akademik/kadro/emre-erdogan/  
+**Konuşma Başlığı:** “Mühendisler Sosyal Bilimle Karşılaştığında…” 
+
+**Seminer Zoom Bağlantı Bilgileri:**
+
+**Time:** 31 Mayıs, 2021 16:30 Istanbul
+
+**Join Zoom Meeting:**    
+ 
+https://itu-edu-tr.zoom.us/j/91522545747?pwd=QVBGL3h6dEJEcFExa0YwSjV2a09WZz09
+
+Meeting ID: 915 2254 5747  
+Passcode: 745003
+
+
+---
+
 ## Seminer II:
 
  **Konuşmacı:** Dr. Çağrı Özçağlar  
