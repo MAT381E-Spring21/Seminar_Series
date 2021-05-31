@@ -1,5 +1,7 @@
 # Seminer Serileri
 
+Bilgi ve deneyimlerini bizlerle paylaşan değerleri konuşmacılarımıza teşekkürü borç biliriz.
+
 ## Seminer III:
 
 **Konuşmacı:** Prof. Dr. Emre Erdoğan  
